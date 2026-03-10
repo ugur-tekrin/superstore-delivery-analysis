@@ -43,6 +43,20 @@ Certain shipping modes show lower profitability for specific products.
 Most deliveries occur within a few days.
 Delivery performance differs across U.S states.
 
+## Repo Structure
+dashboard/
+  superstore_delivery_analysis.twbx
+  dashboard_screenshot.png
+
+presentation/
+  superstore_dashboard_presentation.pdf
+
+documentation/
+  project_summary.pdf
+
+data/
+  superstore_dataset.csv
+
 
 
 
